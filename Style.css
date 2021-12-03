@@ -510,3 +510,11 @@ header {
 .Ad h1 {
     font-size: 1.5em;
 }
+
+.contacts {
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background: firebrick;
+
+}

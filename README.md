@@ -1,5 +1,9 @@
 # ID-Asg1
+Project Alisa Bosconovitch:
 
+The main point of this website is to enchant the readers to pick up Alisa Bosconovitch in tekken7 and also to allow them to develop a general intrest in tekken by showing some lore and stories.
+
+Design Process
 
 
 
